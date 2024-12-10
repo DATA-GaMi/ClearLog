@@ -1,0 +1,7 @@
+E:\CPP\2024\ClearLog\bin\Debug\ClearLog.exe.config
+E:\CPP\2024\ClearLog\bin\Debug\ClearLog.exe
+E:\CPP\2024\ClearLog\bin\Debug\ClearLog.pdb
+E:\CPP\2024\ClearLog\obj\Debug\ClearLog.csproj.AssemblyReference.cache
+E:\CPP\2024\ClearLog\obj\Debug\ClearLog.csproj.CoreCompileInputs.cache
+E:\CPP\2024\ClearLog\obj\Debug\ClearLog.exe
+E:\CPP\2024\ClearLog\obj\Debug\ClearLog.pdb

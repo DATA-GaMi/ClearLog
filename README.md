@@ -1,0 +1,2 @@
+# ClearLog
+ Clear windows log

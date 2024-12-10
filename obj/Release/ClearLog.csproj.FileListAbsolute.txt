@@ -1,0 +1,7 @@
+E:\.Net\2024\ClearLog\bin\Release\ClearLog.exe.config
+E:\.Net\2024\ClearLog\bin\Release\ClearLog.exe
+E:\.Net\2024\ClearLog\bin\Release\ClearLog.pdb
+E:\.Net\2024\ClearLog\obj\Release\ClearLog.csproj.AssemblyReference.cache
+E:\.Net\2024\ClearLog\obj\Release\ClearLog.csproj.CoreCompileInputs.cache
+E:\.Net\2024\ClearLog\obj\Release\ClearLog.exe
+E:\.Net\2024\ClearLog\obj\Release\ClearLog.pdb
